@@ -1,0 +1,52 @@
+h1 {
+color: rebeccapurple;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+/* p {
+color: forestgreen;
+border: 2px solid black;
+} */
+.unique {
+    color: forestgreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+}
+
+
+h2 {
+    color: rebeccapurple;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.common {
+color: forestgreen;
+border: 2px solid black;
+background-color: bisque;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+padding: 10px;
+margin: 5px;
+} 
+
+.original {
+    color: forestgreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.duplicate {
+    color: forestgreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+
+}
+
+h3 {
+    color: rebeccapurple;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;   
+}
+
+.html {
+    color: fuchsia;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
