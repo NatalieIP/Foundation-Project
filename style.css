@@ -81,3 +81,37 @@ h3 {
 .memory {
   text-align: center;  
 }
+
+#text-1 {
+    color: blue;
+    font-size: 40px;
+    background-color: coral;
+    text-align: center;
+    padding: 10px;
+ }
+
+
+/* @media (min-width: 601px) and (max-width:1024px) { */
+ 
+ .scenic {
+    width: 150px;
+    height: 120px;
+    padding: 10px;
+}
+
+.img-wrapper {
+    display: flex;
+    flex-direction: column;  
+}
+
+@media (min-width: 501px) and (max-width: 1024px) {
+  #text-1 {
+    color: darkgreen;
+    font-size: 50px;
+    text-align: center;
+    background-color: darkslategrey;
+  }  
+
+.img-wrapper {
+    flex-direction: row;
+}
